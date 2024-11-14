@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.disabled
+poetry.lock
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+.env
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+__pycache__
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# macOS files
+.DS_Store
+
+# other
+*.tmpl
+*.tmp
+*.png
+*.bkp
+*.crt
+*.key
